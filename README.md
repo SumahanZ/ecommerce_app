@@ -1,6 +1,6 @@
 # Sneaker Shopping App
 
-A flutter sneakers shopping app created using Flutter, Dart, Provider State Management, Node.js, MongoDB, Stripe payment gateway (this is the frontend implementation)
+A flutter sneakers shopping app created using Flutter, Dart, Provider State Management, Node.js, Express.js, MongoDB, Stripe payment gateway (this is the frontend implementation)
 
 ## Getting Started
 
